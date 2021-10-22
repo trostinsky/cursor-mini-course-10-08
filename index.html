@@ -8,10 +8,11 @@
     <title>Практический курс по HTML/CSS</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./css/reset.css">
     <link rel="stylesheet" href="./css/sprites.css">
     <link rel="stylesheet" href="./css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+    <link rel="stylesheet" href="./css/lightbox.min.css">
 </head>
 <body>
 <section id="main">
@@ -27,12 +28,12 @@
         <img src="./img/menu-icon.webp" alt="Menu Icon" class="menu__icon">
     </header>
     <div class="cta__wrapper">
-        <h1 class="cta__title">Work at the speed of thought</h1>
-        <p class="cta__description description">
+        <h1 class="cta__title wow bounceInUp">Work at the speed of thought</h1>
+        <p class="cta__description description wow bounceInUp">
             Most calendars are designed for teams. Slate is designed for
             freelancers who want a simple way to plan their schedule.
         </p>
-        <div class="cta__buttons-wrapper">
+        <div class="cta__buttons-wrapper wow bounceInUp"  data-wow-duration="2s">
             <button class="button cta__button button--main">Try for free</button>
             <button class="button cta__button">Learn more</button>
         </div>
@@ -47,8 +48,8 @@
         </p>
         <div class="features__wrapper">
             <img src="./img/features-screen.webp" alt="Dashboard Interface"
-                 class="features__image">
-            <ul class="features__list">
+                 class="features__image wow bounceInLeft">
+            <ul class="features__list wow bounceInRight">
                 <li class="feature__item">
                     <div class="feature__name-wrapper">
                         <img src="./img/restaurant-menu.webp" height="61"
@@ -99,13 +100,13 @@
     </div>
 </section>
 <section id="contents">
-    <h2 class="h2">Contents</h2>
-    <p class="description">
+    <h2 class="h2 wow bounceInUp">Contents</h2>
+    <p class="description wow bounceInUp">
         We focus on ergonomics and meeting you where you work.
         It's only a keystroke away.
     </p>
     <div class="inner-wrapper contents__wrapper">
-        <div class="contents__item">
+        <div class="contents__item wow bounceInLeft">
             <h4 class="contents__title">Work</h4>
             <p class="contents__description content">
                 Ever wondered if you're too reliant
@@ -117,7 +118,7 @@
             </button>
             <img src="./img/macbook-pro.webp" alt="Macbook Pro Preview" class="contents__image">
         </div>
-        <div class="contents__item">
+        <div class="contents__item wow bounceInRight">
             <h4 class="contents__title">Design with real data</h4>
             <p class="contents__description content">
                 Ever wondered if you're too reliant
@@ -139,16 +140,17 @@
     </p>
     <div class="inner-wrapper gallery__wrapper">
         <div class="gallery__items__wrapper">
-            <div class="gallery__item" style="background-image: url(./img/gallery-1.webp)"></div>
-            <div class="gallery__item" style="background-image: url(./img/gallery-2.webp)"></div>
-            <div class="gallery__item" style="background-image: url(./img/gallery-3.webp)"></div>
-            <div class="gallery__item" style="background-image: url(./img/gallery-4.webp)"></div>
+            <a href="./img/gallery-1.png" class="gallery__item" data-lightbox="gallery"
+               style="background-image: url(./img/gallery-1.webp)"></a>
+            <a href="./img/gallery-2.webp" data-lightbox="gallery" class="gallery__item" style="background-image: url(./img/gallery-2.webp)"></a>
+            <a href="./img/gallery-3.webp" data-lightbox="gallery" class="gallery__item" style="background-image: url(./img/gallery-3.webp)"></a>
+            <a href="./img/gallery-4.webp" data-lightbox="gallery" class="gallery__item" style="background-image: url(./img/gallery-4.webp)"></a>
 
         </div>
         <div class="gallery__items__wrapper">
-            <div class="gallery__item gallery__item--double" style="background-image: url(./img/gallery-5.webp)"></div>
-            <div class="gallery__item" style="background-image: url(./img/gallery-6.webp)"></div>
-            <div class="gallery__item gallery__item--double" style="background-image: url(./img/gallery-7.webp)"></div>
+            <a href="./img/gallery-5.webp" data-lightbox="gallery" class="gallery__item gallery__item--double" style="background-image: url(./img/gallery-5.webp)"></a>
+            <a href="./img/gallery-6.webp" data-lightbox="gallery" class="gallery__item" style="background-image: url(./img/gallery-6.webp)"></a>
+            <a href="./img/gallery-7.webp" data-lightbox="gallery" class="gallery__item gallery__item--double" style="background-image: url(./img/gallery-7.webp)"></a>
         </div>
         <button class="button gallery__button">See more</button>
     </div>
@@ -313,5 +315,8 @@
         </div>
     </div>
 </footer>
+<script src="./js/lightbox-plus-jquery.min.js"></script>
+<script src="./js/wow.min.js"></script>
+<script src="./js/main.js"></script>
 </body>
 </html>
