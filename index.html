@@ -1,0 +1,318 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Практический курс по HTML/CSS</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+<section id="main">
+    <header class="header inner-wrapper">
+        <img src="./img/logo.png" alt="Figma Land" class="logo">
+        <nav class="menu">
+            <a href="#main" class="menu__item">Home</a>
+            <a href="#features" class="menu__item">Product</a>
+            <a href="#contents" class="menu__item">About</a>
+            <a href="#footer" class="menu__item">Contacts</a>
+        </nav>
+        <button class="button">Login</button>
+        <img src="./img/menu-icon.png" alt="Menu Icon" class="menu__icon">
+    </header>
+    <div class="cta__wrapper">
+        <h1 class="cta__title">Work at the speed of thought</h1>
+        <p class="cta__description description">
+            Most calendars are designed for teams. Slate is designed for
+            freelancers who want a simple way to plan their schedule.
+        </p>
+        <div class="cta__buttons-wrapper">
+            <button class="button cta__button button--main">Try for free</button>
+            <button class="button cta__button">Learn more</button>
+        </div>
+    </div>
+</section>
+<section id="features">
+    <div class="inner-wrapper">
+        <h2 class="h2">FEATURES</h2>
+        <p class="description">
+            Most calendars are designed for teams. Slate is designed for
+            freelancers who want a simple way to plan their schedule.
+        </p>
+        <div class="features__wrapper">
+            <img src="./img/features-screen.png" alt="Dashboard Interface"
+                 class="features__image">
+            <ul class="features__list">
+                <li class="feature__item">
+                    <div class="feature__name-wrapper">
+                        <img src="./img/restaurant-menu.png" height="61"
+                             alt="Restaurant Menu"
+                             class="feature__icon">
+                        <span class="feature__name">
+                            A single source
+                            of truth
+                        </span>
+                    </div>
+                    <p class="feature__description content">
+                        When you add work to your
+                        Slate calendar we automatically
+                        calculate useful insights
+                    </p>
+                </li>
+                <li class="feature__item">
+                    <div class="feature__name-wrapper">
+                        <img src="./img/alien.png" height="60"
+                             alt="Alien"
+                             class="feature__icon">
+                        <span class="feature__name">
+                            Intuitive
+                            interface
+                        </span>
+                    </div>
+                    <p class="feature__description content">
+                        When you add work to your
+                        Slate calendar we automatically
+                        calculate useful insights
+                    </p>
+                </li>
+                <li class="feature__item">
+                    <div class="feature__name-wrapper">
+                        <img src="./img/all-inclusive.png" height="53"
+                             alt="All Inclusive"
+                             class="feature__icon">
+                        <span class="feature__name">
+                            Or with rules
+                        </span>
+                    </div>
+                    <p class="feature__description content">
+                        When you add work to your
+                        Slate calendar we automatically
+                        calculate useful insights
+                    </p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+<section id="contents">
+    <h2 class="h2">Contents</h2>
+    <p class="description">
+        We focus on ergonomics and meeting you where you work.
+        It's only a keystroke away.
+    </p>
+    <div class="inner-wrapper contents__wrapper">
+        <div class="contents__item">
+            <h4 class="contents__title">Work</h4>
+            <p class="contents__description content">
+                Ever wondered if you're too reliant
+                on a client for work? Slate helps
+                you identify.
+            </p>
+            <button class="button button--main contents__button">
+                Sign Up
+            </button>
+            <img src="./img/macbook-pro.png" alt="Macbook Pro Preview" class="contents__image">
+        </div>
+        <div class="contents__item">
+            <h4 class="contents__title">Design with real data</h4>
+            <p class="contents__description content">
+                Ever wondered if you're too reliant
+                on a client for work? Slate helps
+                you identify.
+            </p>
+            <button class="button button--main contents__button">
+                Try it for free
+            </button>
+            <img src="./img/boards.png" alt="Dashboard Preview" class="contents__image contents__image--max-width">
+        </div>
+    </div>
+</section>
+<section id="gallery">
+    <h2 class="h2">Gallery</h2>
+    <p class="description">
+        We focus on ergonomics and meeting you where you work.
+        It's only a keystroke away.
+    </p>
+    <div class="inner-wrapper gallery__wrapper">
+        <div class="gallery__items__wrapper">
+            <div class="gallery__item" style="background-image: url(./img/gallery-1.png)"></div>
+            <div class="gallery__item" style="background-image: url(./img/gallery-2.png)"></div>
+            <div class="gallery__item" style="background-image: url(./img/gallery-3.png)"></div>
+            <div class="gallery__item" style="background-image: url(./img/gallery-4.png)"></div>
+
+        </div>
+        <div class="gallery__items__wrapper">
+            <div class="gallery__item gallery__item--double" style="background-image: url(./img/gallery-5.png)"></div>
+            <div class="gallery__item" style="background-image: url(./img/gallery-6.png)"></div>
+            <div class="gallery__item gallery__item--double" style="background-image: url(./img/gallery-7.png)"></div>
+        </div>
+        <button class="button gallery__button">See more</button>
+    </div>
+</section>
+<section id="partners">
+    <h2 class="h2">Partners</h2>
+    <p class="description">
+        We focus on ergonomics and meeting you where you work.
+        It's only a keystroke away.
+    </p>
+    <div class="inner-wrapper partners__wrapper">
+        <div class="partners__logos">
+            <img src="./img/logos_apple-app-store.svg" alt="Apple Logo" class="partners__logo">
+            <img src="./img/logos_apiary.svg" alt="Apiary Logo" class="partners__logo">
+            <img src="./img/logos_android-icon.svg" alt="Android Logo" class="partners__logo">
+            <img src="./img/logos_basecamp.svg" alt="Basecamp Logo" class="partners__logo">
+            <img src="./img/logos_airbnb.svg" alt="AirBnB Logo" class="partners__logo">
+            <img src="./img/logos_ibm.svg" alt="IBM Logo" class="partners__logo">
+        </div>
+        <button class="button partners__button">All partners</button>
+    </div>
+</section>
+<section id="testimonials">
+    <h2 class="h2">Testimonials</h2>
+    <div class="testimonials__wrapper">
+        <div class="testimonials__column">
+            <div class="testimonials__single">
+                <div class="author">
+                    <div class="author__photo" style="background-image: url(./img/author-1.png);"></div>
+                    <div class="author__info">
+                        <p class="author__name">Claire Bell</p>
+                        <p class="author__position">Designer</p>
+                    </div>
+                </div>
+                <p class="testimonials__content content">
+                    Slate helps you see how many more days
+                    you need to work to reach your financial
+                    goal for the month and year. Slate helps
+                    you see how many more days
+                    you need to work to reach your financial
+                    goal for the month and year.your financial
+                    goal for the month and year.
+                </p>
+            </div>
+            <div class="testimonials__single">
+                <div class="author">
+                    <div class="author__photo" style="background-image: url(./img/author-2.png);"></div>
+                    <div class="author__info">
+                        <p class="author__name">Francisco Lane</p>
+                        <p class="author__position">Designer</p>
+                    </div>
+                </div>
+                <p class="testimonials__content content">
+                    Slate helps you see how many more days
+                    you need to work to reach your financial
+                    goal for the month and year. Slate helps
+                    you see how many more days
+                    you need to work to reach your financial
+                    goal for the month and year.
+                </p>
+            </div>
+        </div>
+        <div class="testimonials__column">
+            <div class="testimonials__single">
+                <div class="author">
+                    <div class="author__photo" style="background-image: url(./img/author-3.png);"></div>
+                    <div class="author__info">
+                        <p class="author__name">Ralph Fisher</p>
+                        <p class="author__position">Designer</p>
+                    </div>
+                </div>
+                <p class="testimonials__content content">
+                    Slate helps you see how many more days
+                    you need to work to reach your financial
+                    goal for the month and year. Slate helps
+                    you see how many more days
+                    you need to work to reach your financial
+                    goal for the month and year.
+                </p>
+            </div>
+            <div class="testimonials__single">
+                <div class="author">
+                    <div class="author__photo" style="background-image: url(./img/author-4.png);"></div>
+                    <div class="author__info">
+                        <p class="author__name">Jorge Murphy</p>
+                        <p class="author__position">Designer</p>
+                    </div>
+                </div>
+                <p class="testimonials__content content">
+                    Slate helps you see how many more days
+                    you need to work to reach your financial
+                    goal for the month and year. Slate helps
+                    you see how many more days
+                    you need to work to reach your financial
+                    goal for the month and year.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="banner">
+    <div class="banner__wrapper">
+        <div class="banner__left">
+            <h2 class="banner__title">
+                OpenType features
+                and Variable fonts
+            </h2>
+            <button class="button button--main">
+                Try it for free
+            </button>
+        </div>
+        <div class="banner__right">
+            <img src="./img/banner-photo.png" alt="Example of prototype tool" class="banner__image">
+        </div>
+    </div>
+</section>
+<footer id="#footer">
+    <div class="footer__wrapper inner-wrapper">
+        <div class="footer__menu">
+            <h4 class="footer__menu__title">
+                Fingertipe
+            </h4>
+            <a href="#" class="footer__menu__link">Home</a>
+            <a href="#" class="footer__menu__link">Examples</a>
+            <a href="#" class="footer__menu__link">Pricing</a>
+            <a href="#" class="footer__menu__link">Updates</a>
+        </div>
+        <div class="footer__menu">
+            <h4 class="footer__menu__title">
+                Resources
+            </h4>
+            <a href="#" class="footer__menu__link">Home</a>
+            <a href="#" class="footer__menu__link">Examples</a>
+            <a href="#" class="footer__menu__link">Pricing</a>
+            <a href="#" class="footer__menu__link">Updates</a>
+        </div>
+        <div class="footer__menu">
+            <h4 class="footer__menu__title">
+                About
+            </h4>
+            <a href="#" class="footer__menu__link">Home</a>
+            <a href="#" class="footer__menu__link">Examples</a>
+            <a href="#" class="footer__menu__link">Pricing</a>
+            <a href="#" class="footer__menu__link">Updates</a>
+        </div>
+        <div class="footer__contacts">
+            <div class="footer__address__wrapper">
+                <div class="footer__address__item">
+                    <img class="footer__address_icon footer__icon" src="./img/location.png" alt="Location Icon">
+                    <p class="footer__contact">7480 Mockingbird Hill 12000</p>
+                </div>
+                <div class="footer__address__item">
+                    <img class="footer__phone_icon footer__icon" src="./img/phone.png" alt="Phone Icon">
+                    <p class="footer__contact">(239) 555-0108</p>
+                </div>
+                <div class="footer__social">
+                    <img src="./img/twitter.png" alt="Twitter Icon" class="footer__social__icon">
+                    <img src="./img/facebook.png" alt="Facebook Icon" class="footer__social__icon">
+                    <img src="./img/linkedin.png" alt="LinkedIn Icon" class="footer__social__icon">
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</body>
+</html>

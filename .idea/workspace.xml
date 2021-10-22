@@ -1,54 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02f20465-e023-4ebf-b970-ca0b3fcdf9dd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/package-lock.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/logo192.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/logo512.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/manifest.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/public/robots.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/components/chat.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/components/message.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/serviceWorker.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/src/utils/socket.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/app/yarn.lock" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/package-lock.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/public/favicon.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/public/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/public/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/public/manifest.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/public/robots.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/app/app.tsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/app/header.tsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/app/privateRoute.tsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/bills/bills.controller.tsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/bills/bills.view.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/common/button.tsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/common/heading.tsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/common/input.tsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/common/logo.tsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/common/table.tsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/news/news.controller.tsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/news/news.view.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/sign/sign.controller.tsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/components/sign/sign.view.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/index.tsx" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/react-app-env.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/reducers/auth.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/serviceWorker.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/src/store/index.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/tsconfig.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ihouse/yarn.lock" afterPath="" />
+    <list default="true" id="70ea15ab-8c7f-4261-8190-c03ac27e41cf" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jquery.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/reset.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/.flooignore" afterPath="$PROJECT_DIR$/.flooignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change beforePath="$PROJECT_DIR$/.idea/cursor-react.iml" afterPath="$PROJECT_DIR$/.idea/cursor.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,26 +23,45 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="cursor-js-practice" />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".floo" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.floo">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="969">
+              <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="730">
+              <caret line="643" column="24" lean-forward="false" selection-start-line="643" selection-start-column="24" selection-end-line="643" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".flooignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.flooignore">
+      <file leaf-file-name="reset.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/reset.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="1692">
+              <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -87,54 +69,36 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-      </list>
-    </option>
-  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>console.</find>
-      <find>copyMarks</find>
-      <find>number</find>
-      <find>.user</find>
-      <find>Event</find>
-      <find>210</find>
-      <find>link</find>
-      <find>with</find>
-      <find>.png</find>
-      <find>.channel</find>
-      <find>.b</find>
-      <find>nav</find>
-      <find>col-md-3</find>
-      <find>ol</find>
-      <find>card</find>
       <find>deb</find>
-      <find>renderPro</find>
-      <find>JSON.p</find>
-      <find>,</find>
-      <find>produc</find>
-      <find>product-to</find>
-      <find>pay</find>
-      <find>p</find>
-      <find>renderProduc</find>
-      <find>descript</find>
-      <find>full</find>
-      <find>.cart</find>
-      <find>position:</find>
-      <find>make-order</find>
-      <find>let</find>
+      <find>monthEnd</find>
+      <find>max</find>
+      <find>mockData</find>
+      <find>product-wr</find>
+      <find>button</find>
+      <find>prevent</find>
+      <find>mini</find>
+      <find>renderCh</find>
+      <find>renderHeader</find>
+      <find>total</find>
+      <find>c</find>
+      <find>cartProducts.total</find>
+      <find>&lt;br&gt;</find>
+      <find>[1, 2, 3, 4, 5, 6]</find>
+      <find>Spagetti</find>
+      <find>font-size</find>
+      <find>description</find>
+      <find>font-size: 16</find>
     </findStrings>
     <replaceStrings>
-      <replace>totalMilliseconds</replace>
-      <replace>copyValues</replace>
-      <replace>DEFAULT_LOGO_SIZE</replace>
-      <replace>path</replace>
-      <replace>.svg</replace>
-      <replace>col-md-3 single-promo</replace>
-      <replace>li</replace>
+      <replace>periodEnd</replace>
+      <replace>min</replace>
+      <replace>googleData</replace>
+      <replace>cart.total</replace>
+      <replace>\n</replace>
+      <replace>numbers</replace>
+      <replace>Spaghetti</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -143,57 +107,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dist/index.html" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/users/model.js" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
-        <option value="$PROJECT_DIR$/src/users/view.js" />
-        <option value="$PROJECT_DIR$/app/src/App.js" />
-        <option value="$PROJECT_DIR$/app/src/components/Message.js" />
-        <option value="$PROJECT_DIR$/app/src/components/Chat.js" />
-        <option value="$PROJECT_DIR$/app/src/index.js" />
-        <option value="$PROJECT_DIR$/app/package.json" />
-        <option value="$PROJECT_DIR$/app/public/index.html" />
-        <option value="$PROJECT_DIR$/app/src/components/message.js" />
-        <option value="$PROJECT_DIR$/app/src/components/chat.js" />
-        <option value="$PROJECT_DIR$/app/src/utils/socket.js" />
-        <option value="$PROJECT_DIR$/ihouse/src/store/index.ts" />
-        <option value="$PROJECT_DIR$/ihouse/src/app/app.ts" />
-        <option value="$PROJECT_DIR$/ihouse/src/app/app.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/src/index.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/sign/sign.controller.ts" />
-        <option value="$PROJECT_DIR$/ihouse/tsconfig.json" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/common/logo.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/common/button.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/sign/sign.view.ts" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/common/input.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/sign/sign.controller.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/src/reducers/auth.ts" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/app/header.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/app/privateRoute.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/common/table.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/bills/bills.view.ts" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/common/heading.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/bills/bills.controller.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/public/index.html" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/app/app.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/news/news.controller.tsx" />
-        <option value="$PROJECT_DIR$/ihouse/src/components/news/news.view.ts" />
-        <option value="$PROJECT_DIR$/styles.css" />
-        <option value="$USER_HOME$/Downloads/transfonter.org-20200504-163740/stylesheet.css" />
-        <option value="$PROJECT_DIR$/theme.css" />
-        <option value="$PROJECT_DIR$/reset.css" />
-        <option value="$PROJECT_DIR$/animate.css" />
-        <option value="$PROJECT_DIR$/index.min.css" />
-        <option value="$PROJECT_DIR$/sprites.css" />
-        <option value="$PROJECT_DIR$/index.css" />
-        <option value="$PROJECT_DIR$/product.html" />
-        <option value="$PROJECT_DIR$/images/add-to-card-icon.svg" />
-        <option value="$PROJECT_DIR$/markup.js" />
-        <option value="$PROJECT_DIR$/products.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$USER_HOME$/cursor-js-mini/index.html" />
+        <option value="$PROJECT_DIR$/loops.js" />
+        <option value="$PROJECT_DIR$/functions.js" />
+        <option value="$PROJECT_DIR$/cursor-calendar/tsconfig.json" />
+        <option value="$PROJECT_DIR$/cursor-calendar/src/App.tsx" />
+        <option value="$PROJECT_DIR$/cursor-calendar/src/calendar/calendar.css" />
+        <option value="$PROJECT_DIR$/cursor-calendar/src/calendar/calendar.tsx" />
+        <option value="$PROJECT_DIR$/md5.min.js" />
+        <option value="$PROJECT_DIR$/wfp-example.js" />
         <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/css/reset.css" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -210,9 +137,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="25" />
     <option name="width" value="1792" />
-    <option name="height" value="1097" />
+    <option name="height" value="1029" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -230,44 +157,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="cursor-react" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursor" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursor-js-practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cursor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursor-js-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cursor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cursor-js-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
-    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
-    <property name="javascript.nodejs.core.library.configured.version" value="11.3.0" />
-    <property name="settings.editor.splitter.proportion" value="0.26218098" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
-      <recent name="$PROJECT_DIR$/ihouse/src/components" />
-      <recent name="$PROJECT_DIR$/app/src/components" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -289,62 +208,57 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="02f20465-e023-4ebf-b970-ca0b3fcdf9dd" name="Default" comment="" />
-      <created>1561046644556</created>
+      <changelist id="70ea15ab-8c7f-4261-8190-c03ac27e41cf" name="Default" comment="" />
+      <created>1610991468611</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561046644556</updated>
-      <workItem from="1561046646855" duration="7063000" />
-      <workItem from="1561391419243" duration="7190000" />
-      <workItem from="1561792314254" duration="9153000" />
-      <workItem from="1562860707289" duration="7577000" />
-      <workItem from="1563605888936" duration="7860000" />
-      <workItem from="1564761389366" duration="8282000" />
-      <workItem from="1564831804544" duration="357000" />
-      <workItem from="1564946330815" duration="218000" />
-      <workItem from="1565279125400" duration="5400000" />
-      <workItem from="1572889881777" duration="379000" />
-      <workItem from="1572890325027" duration="4000" />
-      <workItem from="1584032049528" duration="8399000" />
-      <workItem from="1587052558016" duration="9642000" />
-      <workItem from="1587127029670" duration="6000" />
-      <workItem from="1587501196085" duration="312000" />
-      <workItem from="1587805239669" duration="14689000" />
-      <workItem from="1588607656433" duration="8044000" />
-      <workItem from="1589120905585" duration="3000" />
-      <workItem from="1589990566882" duration="8016000" />
-      <workItem from="1590054281193" duration="2000" />
-      <workItem from="1590060664697" duration="610000" />
-      <workItem from="1590508792531" duration="5825000" />
-      <workItem from="1591631338844" duration="4833000" />
-      <workItem from="1591891044225" duration="5024000" />
-      <workItem from="1591948022604" duration="9000" />
-      <workItem from="1592841229046" duration="8020000" />
-      <workItem from="1593005266415" duration="11187000" />
-      <workItem from="1593167131797" duration="11895000" />
-      <workItem from="1593263044399" duration="9000" />
-      <workItem from="1599148504680" duration="115000" />
+      <updated>1610991468611</updated>
+      <workItem from="1610991471142" duration="157000" />
+      <workItem from="1610991657584" duration="78000" />
+      <workItem from="1610991739005" duration="4113000" />
+      <workItem from="1611162212559" duration="5541000" />
+      <workItem from="1611184280408" duration="8000" />
+      <workItem from="1611332633192" duration="5889000" />
+      <workItem from="1611393496976" duration="154000" />
+      <workItem from="1611560063581" duration="1000" />
+      <workItem from="1612198670162" duration="8020000" />
+      <workItem from="1619451396266" duration="8728000" />
+      <workItem from="1619602197633" duration="244000" />
+      <workItem from="1619625330585" duration="7132000" />
+      <workItem from="1619794860529" duration="8918000" />
+      <workItem from="1625759262587" duration="6797000" />
+      <workItem from="1632152269672" duration="3838000" />
+      <workItem from="1632412807443" duration="7278000" />
+      <workItem from="1632844817804" duration="7614000" />
+      <workItem from="1633017728124" duration="7614000" />
+      <workItem from="1634053484006" duration="7600000" />
+      <workItem from="1634131061679" duration="543000" />
+      <workItem from="1634545263025" duration="3000" />
+      <workItem from="1634572786504" duration="7228000" />
+      <workItem from="1634649565890" duration="4409000" />
+      <workItem from="1634711885160" duration="5000" />
+      <workItem from="1634745443801" duration="6980000" />
+      <workItem from="1634918238122" duration="550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150123000" />
+    <option name="totallyTimeSpent" value="109442000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1792" height="1097" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1792" height="1029" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2600795" sideWeight="0.4948052" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16467915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2068607" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3626126" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16112266" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1641113" sideWeight="0.5051948" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -363,130 +277,81 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/users/model.js" />
-    <entry file="file://$PROJECT_DIR$/app/src/setupTests.js" />
-    <entry file="file://$PROJECT_DIR$/app/public/index.html" />
-    <entry file="file://$PROJECT_DIR$/app/src/index.js" />
-    <entry file="file://$PROJECT_DIR$/app/src/components/chat.js" />
-    <entry file="file://$PROJECT_DIR$/app/src/utils/socket.js" />
-    <entry file="file://$PROJECT_DIR$/app/package.json" />
-    <entry file="file://$PROJECT_DIR$/app/src/components/message.js" />
-    <entry file="file://$PROJECT_DIR$/ihouse/node_modules/redux/index.d.ts" />
-    <entry file="file://$PROJECT_DIR$/ihouse/node_modules/@types/react/index.d.ts" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/index.tsx" />
-    <entry file="file://$PROJECT_DIR$/ihouse/tsconfig.json" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/common/logo.tsx" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/sign/sign.view.ts" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/common/input.tsx" />
-    <entry file="file://$PROJECT_DIR$/ihouse/node_modules/react-redux/src/connect/connect.js" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/store/index.ts" />
-    <entry file="file://$PROJECT_DIR$/ihouse/node_modules/@types/history/index.d.ts" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/sign/sign.controller.tsx" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/common/button.tsx" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/reducers/auth.ts" />
-    <entry file="file://$PROJECT_DIR$/ihouse/node_modules/@types/react-router-dom/index.d.ts" />
-    <entry file="file://$PROJECT_DIR$/ihouse/node_modules/@types/react-router/index.d.ts" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/app/header.tsx" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/app/privateRoute.tsx" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/common/table.tsx" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/common/heading.tsx" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/bills/bills.controller.tsx" />
-    <entry file="file://$PROJECT_DIR$/ihouse/public/index.html" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/bills/bills.view.ts" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/app/app.tsx" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/news/news.controller.tsx" />
-    <entry file="file://$PROJECT_DIR$/ihouse/src/components/news/news.view.ts" />
-    <entry file="file://$USER_HOME$/Downloads/transfonter.org-20200504-163740/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theme.css" />
-    <entry file="file://$PROJECT_DIR$/images/css_sprites.png" />
-    <entry file="file://$PROJECT_DIR$/sprites.css" />
-    <entry file="file://$PROJECT_DIR$/animate.css" />
-    <entry file="file://$PROJECT_DIR$/index.min.css" />
-    <entry file="file://$PROJECT_DIR$/index.css" />
-    <entry file="file://$PROJECT_DIR$/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1692">
-          <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/add-to-card-icon.svg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="15100" column="67" lean-forward="true" selection-start-line="15100" selection-start-column="67" selection-end-line="15100" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1152">
-          <caret line="85" column="10" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="85" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/markup.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2988">
-          <caret line="83" column="32" lean-forward="false" selection-start-line="83" selection-start-column="32" selection-end-line="83" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/products.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8676">
-          <caret line="241" column="34" lean-forward="false" selection-start-line="241" selection-start-column="34" selection-end-line="241" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1944">
-          <caret line="54" column="45" lean-forward="false" selection-start-line="54" selection-start-column="45" selection-end-line="54" selection-end-column="45" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
+    <entry file="file://$PROJECT_DIR$/main.js" />
+    <entry file="file://$PROJECT_DIR$/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="214" column="48" lean-forward="false" selection-start-line="214" selection-start-column="48" selection-end-line="214" selection-end-column="48" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.js" />
+    <entry file="file://$PROJECT_DIR$/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/cursor-calendar/src/App.tsx" />
+    <entry file="file://$PROJECT_DIR$/cursor-calendar/src/calendar/calendar.tsx" />
+    <entry file="file://$PROJECT_DIR$/cursor-calendar/src/calendar/calendar.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/loops.js" />
+    <entry file="file://$PROJECT_DIR$/functions.js" />
+    <entry file="file://$PROJECT_DIR$/main.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/loops.js" />
+    <entry file="file://$PROJECT_DIR$/main.js" />
+    <entry file="file://$PROJECT_DIR$/functions.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/functions.js" />
+    <entry file="file://$PROJECT_DIR$/main.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/loops.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/loops.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/main.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/.flooignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -494,7 +359,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/.floo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.flooignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.floo">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loops.js" />
+    <entry file="file://$PROJECT_DIR$/functions.js" />
+    <entry file="file://$PROJECT_DIR$/cursor-calendar/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/cursor-calendar/src/App.tsx" />
+    <entry file="file://$PROJECT_DIR$/cursor-calendar/node_modules/moment/moment.d.ts" />
+    <entry file="file://$PROJECT_DIR$/cursor-calendar/src/calendar/calendar.css" />
+    <entry file="file://$PROJECT_DIR$/cursor-calendar/src/calendar/calendar.tsx" />
+    <entry file="file://$PROJECT_DIR$/css/linearicons.css" />
+    <entry file="file://$PROJECT_DIR$/md5.min.js" />
+    <entry file="file://$PROJECT_DIR$/wfp-example.js" />
+    <entry file="file://$PROJECT_DIR$/main.js" />
+    <entry file="file://$PROJECT_DIR$/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1692">
+          <caret line="47" column="1" lean-forward="false" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///var/folders/70/z4z9_vyn5g76jgn23gys918r0000gn/T/TemporaryItems/NSIRD_screencaptureui_hySlBz/Снимок экрана 2021-10-19 в 16.23.16.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js" />
+    <entry file="file://$PROJECT_DIR$/img/banner-photo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="643" column="24" lean-forward="false" selection-start-line="643" selection-start-column="24" selection-end-line="643" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
