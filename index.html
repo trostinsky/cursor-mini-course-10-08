@@ -10,12 +10,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/sprites.css">
     <link rel="stylesheet" href="./css/main.css">
 </head>
 <body>
 <section id="main">
     <header class="header inner-wrapper">
-        <img src="./img/logo.png" alt="Figma Land" class="logo">
+        <div class="logo bg-logo bg"></div>
         <nav class="menu">
             <a href="#main" class="menu__item">Home</a>
             <a href="#features" class="menu__item">Product</a>
@@ -23,7 +24,7 @@
             <a href="#footer" class="menu__item">Contacts</a>
         </nav>
         <button class="button">Login</button>
-        <img src="./img/menu-icon.png" alt="Menu Icon" class="menu__icon">
+        <img src="./img/menu-icon.webp" alt="Menu Icon" class="menu__icon">
     </header>
     <div class="cta__wrapper">
         <h1 class="cta__title">Work at the speed of thought</h1>
@@ -45,12 +46,12 @@
             freelancers who want a simple way to plan their schedule.
         </p>
         <div class="features__wrapper">
-            <img src="./img/features-screen.png" alt="Dashboard Interface"
+            <img src="./img/features-screen.webp" alt="Dashboard Interface"
                  class="features__image">
             <ul class="features__list">
                 <li class="feature__item">
                     <div class="feature__name-wrapper">
-                        <img src="./img/restaurant-menu.png" height="61"
+                        <img src="./img/restaurant-menu.webp" height="61"
                              alt="Restaurant Menu"
                              class="feature__icon">
                         <span class="feature__name">
@@ -66,9 +67,7 @@
                 </li>
                 <li class="feature__item">
                     <div class="feature__name-wrapper">
-                        <img src="./img/alien.png" height="60"
-                             alt="Alien"
-                             class="feature__icon">
+                        <div class="feature__icon bg bg-alien"></div>
                         <span class="feature__name">
                             Intuitive
                             interface
@@ -82,7 +81,7 @@
                 </li>
                 <li class="feature__item">
                     <div class="feature__name-wrapper">
-                        <img src="./img/all-inclusive.png" height="53"
+                        <img src="./img/all-inclusive.webp" height="53"
                              alt="All Inclusive"
                              class="feature__icon">
                         <span class="feature__name">
@@ -116,7 +115,7 @@
             <button class="button button--main contents__button">
                 Sign Up
             </button>
-            <img src="./img/macbook-pro.png" alt="Macbook Pro Preview" class="contents__image">
+            <img src="./img/macbook-pro.webp" alt="Macbook Pro Preview" class="contents__image">
         </div>
         <div class="contents__item">
             <h4 class="contents__title">Design with real data</h4>
@@ -128,7 +127,7 @@
             <button class="button button--main contents__button">
                 Try it for free
             </button>
-            <img src="./img/boards.png" alt="Dashboard Preview" class="contents__image contents__image--max-width">
+            <img src="./img/boards.webp" alt="Dashboard Preview" class="contents__image contents__image--max-width">
         </div>
     </div>
 </section>
@@ -140,16 +139,16 @@
     </p>
     <div class="inner-wrapper gallery__wrapper">
         <div class="gallery__items__wrapper">
-            <div class="gallery__item" style="background-image: url(./img/gallery-1.png)"></div>
-            <div class="gallery__item" style="background-image: url(./img/gallery-2.png)"></div>
-            <div class="gallery__item" style="background-image: url(./img/gallery-3.png)"></div>
-            <div class="gallery__item" style="background-image: url(./img/gallery-4.png)"></div>
+            <div class="gallery__item" style="background-image: url(./img/gallery-1.webp)"></div>
+            <div class="gallery__item" style="background-image: url(./img/gallery-2.webp)"></div>
+            <div class="gallery__item" style="background-image: url(./img/gallery-3.webp)"></div>
+            <div class="gallery__item" style="background-image: url(./img/gallery-4.webp)"></div>
 
         </div>
         <div class="gallery__items__wrapper">
-            <div class="gallery__item gallery__item--double" style="background-image: url(./img/gallery-5.png)"></div>
-            <div class="gallery__item" style="background-image: url(./img/gallery-6.png)"></div>
-            <div class="gallery__item gallery__item--double" style="background-image: url(./img/gallery-7.png)"></div>
+            <div class="gallery__item gallery__item--double" style="background-image: url(./img/gallery-5.webp)"></div>
+            <div class="gallery__item" style="background-image: url(./img/gallery-6.webp)"></div>
+            <div class="gallery__item gallery__item--double" style="background-image: url(./img/gallery-7.webp)"></div>
         </div>
         <button class="button gallery__button">See more</button>
     </div>
@@ -178,7 +177,7 @@
         <div class="testimonials__column">
             <div class="testimonials__single">
                 <div class="author">
-                    <div class="author__photo" style="background-image: url(./img/author-1.png);"></div>
+                    <div class="author__photo" style="background-image: url(./img/author-1.webp);"></div>
                     <div class="author__info">
                         <p class="author__name">Claire Bell</p>
                         <p class="author__position">Designer</p>
@@ -196,7 +195,7 @@
             </div>
             <div class="testimonials__single">
                 <div class="author">
-                    <div class="author__photo" style="background-image: url(./img/author-2.png);"></div>
+                    <div class="author__photo" style="background-image: url(./img/author-2.webp);"></div>
                     <div class="author__info">
                         <p class="author__name">Francisco Lane</p>
                         <p class="author__position">Designer</p>
@@ -215,7 +214,7 @@
         <div class="testimonials__column">
             <div class="testimonials__single">
                 <div class="author">
-                    <div class="author__photo" style="background-image: url(./img/author-3.png);"></div>
+                    <div class="author__photo" style="background-image: url(./img/author-3.webp);"></div>
                     <div class="author__info">
                         <p class="author__name">Ralph Fisher</p>
                         <p class="author__position">Designer</p>
@@ -232,7 +231,7 @@
             </div>
             <div class="testimonials__single">
                 <div class="author">
-                    <div class="author__photo" style="background-image: url(./img/author-4.png);"></div>
+                    <div class="author__photo" style="background-image: url(./img/author-4.webp);"></div>
                     <div class="author__info">
                         <p class="author__name">Jorge Murphy</p>
                         <p class="author__position">Designer</p>
@@ -262,7 +261,7 @@
             </button>
         </div>
         <div class="banner__right">
-            <img src="./img/banner-photo.png" alt="Example of prototype tool" class="banner__image">
+            <img src="./img/banner-photo.webp" alt="Example of prototype tool" class="banner__image">
         </div>
     </div>
 </section>
@@ -298,17 +297,17 @@
         <div class="footer__contacts">
             <div class="footer__address__wrapper">
                 <div class="footer__address__item">
-                    <img class="footer__address_icon footer__icon" src="./img/location.png" alt="Location Icon">
+                    <img class="footer__address_icon footer__icon" src="./img/location.webp" alt="Location Icon">
                     <p class="footer__contact">7480 Mockingbird Hill 12000</p>
                 </div>
                 <div class="footer__address__item">
-                    <img class="footer__phone_icon footer__icon" src="./img/phone.png" alt="Phone Icon">
+                    <img class="footer__phone_icon footer__icon" src="./img/phone.webp" alt="Phone Icon">
                     <p class="footer__contact">(239) 555-0108</p>
                 </div>
                 <div class="footer__social">
-                    <img src="./img/twitter.png" alt="Twitter Icon" class="footer__social__icon">
-                    <img src="./img/facebook.png" alt="Facebook Icon" class="footer__social__icon">
-                    <img src="./img/linkedin.png" alt="LinkedIn Icon" class="footer__social__icon">
+                    <img src="./img/twitter.webp" alt="Twitter Icon" class="footer__social__icon">
+                    <img src="./img/facebook.webp" alt="Facebook Icon" class="footer__social__icon">
+                    <img src="./img/linkedin.webp" alt="LinkedIn Icon" class="footer__social__icon">
                 </div>
             </div>
         </div>

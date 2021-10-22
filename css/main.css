@@ -136,7 +136,7 @@ body{
 #main{
     position: relative;
     min-height: 1675px;
-    background-image: url(../img/main-screen.png);
+    background-image: url(../img/main-screen.webp);
     background-size: auto 50%;
     background-repeat: no-repeat;
     background-position: 50% calc(100% - 200px);
@@ -185,7 +185,7 @@ body{
 }
 
 .feature__icon{
-    width: auto;
+
 }
 
 .feature__name{

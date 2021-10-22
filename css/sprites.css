@@ -1,0 +1,60 @@
+.bg-alien {
+    width: 33px;
+    height: 60px;
+    background: url(../img/sprite.webp) -5px -576px;
+}
+.bg-all_inclusive {
+    width: 82px; height: 106px;
+    background: url('../img/sprite.webp') -10px -1026px;
+}
+.bg-facebook {
+    width: 83px; height: 83px;
+    background: url('../img/sprite.webp') -10px -604px;
+}
+.bg-linkedin {
+    width: 83px; height: 83px;
+    background: url('../img/sprite.webp') -10px -707px;
+}
+.bg-logo {
+    width: 206px; height: 78px;
+    background: url('../img/sprite.webp') -5px -718px;
+}
+.bg-logos_airbnb {
+    width: 61px; height: 66px;
+    background: url('../img/sprite.webp') -10px -335px;
+}
+.bg-logos_android_icon {
+    width: 61px; height: 72px;
+    background: url('../img/sprite.webp') -10px -512px;
+}
+.bg-logos_apiary {
+    width: 61px; height: 62px;
+    background: url('../img/sprite.webp') -10px -253px;
+}
+.bg-logos_apple_app_store {
+    width: 61px; height: 61px;
+    background: url('../img/sprite.webp') -10px -10px;
+}
+.bg-logos_basecamp {
+    width: 73px; height: 61px;
+    background: url('../img/sprite.webp') -10px -91px;
+}
+.bg-logos_ibm {
+    width: 151px; height: 61px;
+    background: url('../img/sprite.webp') -10px -172px;
+}
+.bg-phone {
+    width: 70px; height: 71px;
+    background: url('../img/sprite.webp') -10px -421px;
+}
+.bg-restaurant_menu {
+    width: 63px; height: 124px;
+    background: url('../img/sprite.webp') -10px -1292px;
+}
+.bg-twitter {
+    width: 82px; height: 83px;
+    background: url('../img/sprite.webp') -10px -810px;
+}
+.bg{
+    background-size: 216px 801px;
+}
